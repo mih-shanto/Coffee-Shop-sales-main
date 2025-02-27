@@ -3,6 +3,9 @@
 ## 📊 Project Overview  
 This project analyzes **retail sales data** from Starbucks stores to gain actionable insights that will enhance business performance. The dashboard provides a visual representation of **sales revenue, top products, order trends, and customer behavior** to help business owners make data-driven decisions.
 
+!(https://github.com/mih-shanto/Coffee-Shop-sales-main/blob/main/Project_Files/Dashboard%20Project.png)
+
+
 ## 🔍 Key Insights  
 - **Total Sales Revenue & Monthly Trends**  
   - Identify peak months with the highest sales.
